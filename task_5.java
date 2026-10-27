@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Main {
-    static final String DEVELOPER_NAME = "не указано";
-    static final String DEVELOPER_GROUP = "не указана";
+public class task_5 {
+    static final String DEVELOPER_NAME = "Седиров Роман";
+    static final String DEVELOPER_GROUP = "РИ-250931";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
